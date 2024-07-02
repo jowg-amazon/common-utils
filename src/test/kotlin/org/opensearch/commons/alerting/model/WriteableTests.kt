@@ -28,7 +28,6 @@ import org.opensearch.commons.alerting.randomQueryLevelTriggerRunResult
 import org.opensearch.commons.alerting.randomThrottle
 import org.opensearch.commons.alerting.randomUser
 import org.opensearch.commons.alerting.randomUserEmpty
-import org.opensearch.commons.alerting.randomWorkflow
 import org.opensearch.commons.alerting.util.IndexUtils
 import org.opensearch.commons.authuser.User
 import org.opensearch.core.common.io.stream.StreamInput
